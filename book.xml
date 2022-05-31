@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<pre:Books xmlns:pre="http://fpt.com.vn">
+    <pre:Book Category="Novel">
+        <Name>Harry Potter</Name>
+        <Author>J.K Rowling</Author>
+        <Price>12.4</Price>
+    </pre:Book>
+    <Book Category="Science">
+        <Name>History of time</Name>
+        <Author>Stephen Hawking</Author>
+        <Price>23</Price>
+    </Book>
+    <Book Category="Programming">
+        <Name>XML bible</Name>
+        <Author>Unknown</Author>
+        <Price>8.9</Price>
+    </Book>
+</pre:Books>
